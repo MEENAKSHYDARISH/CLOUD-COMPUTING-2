@@ -14,7 +14,7 @@
 
 **DESCRIPTION**
 
-mazon CloudWatch is a powerful monitoring and observability service that collects data from various AWS resources like EC2, Lambda, RDS, and more. It provides insights through metrics, logs, dashboards, and alarms.
+Amazon CloudWatch is a powerful monitoring and observability service that collects data from various AWS resources like EC2, Lambda, RDS, and more. It provides insights through metrics, logs, dashboards, and alarms.
 
  Steps to Set Up Monitoring Using AWS CloudWatch:
 Launch the Cloud Resource:
